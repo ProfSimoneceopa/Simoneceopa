@@ -1,6 +1,6 @@
 # Simoneceopa
 - Meu nome é Simone
-- Sou professora de Pensamento Computacinal e de Ciências.
+- Sou professora de Pensamento Computacional e de Ciências.
 - Estou estudando na [Alura](https//www.alura.com.br)
 - Utilizo para organização.
 - Estou aprendendo.
